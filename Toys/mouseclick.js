@@ -1,1 +1,1 @@
-javascript:document.body.onmousedown = function() { alert("TROLLED")}
+javascript:document.body.onmousedown = function() { alert("Kristian is the Best")}
